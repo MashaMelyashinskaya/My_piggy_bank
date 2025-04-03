@@ -1,2 +1,2 @@
 # My_piggy_bank
-This repository contains examples of work on machine learning and exploratory data analysis.
+This repository contains examples of work on exploratory data analysi and machine learning.
