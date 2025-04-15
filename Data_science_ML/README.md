@@ -1,4 +1,4 @@
-В этом репозитории находятся примеры моих работ по ML и EDA.
+В этом репозитории находятся примеры моих работ по ML.
 
 1. [Churn - задача классификации](https://github.com/MashaMelyashinskaya/Piggy_bank/tree/main/Churn(classification))
 2. [Games - аналитическое исследование игр](https://github.com/MashaMelyashinskaya/Piggy_bank/tree/main/Games(EDA))
