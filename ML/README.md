@@ -1,4 +1,4 @@
-В этом репозитории находятся примеры моих работ по ML.
+В этом репозитории примеры моих работ по ML.
 
 1. [Churn - задача классификации](https://github.com/MashaMelyashinskaya/Piggy_bank/tree/main/Churn(classification))
 2. [Malicious_traffic - классификатор видов трафика](https://github.com/MashaMelyashinskaya/My_piggy_bank/tree/main/Data_science_ML/Malicious_traffic)
