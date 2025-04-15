@@ -1,6 +1,6 @@
 В этом репозитории находятся примеры моих работ по EDA.
 
-1. [A/B-test]()
+1. [A/B-test - проект по тестированию](https://github.com/MashaMelyashinskaya/My_piggy_bank/tree/main/EDA/AB_test)
 2. [Games - аналитическое исследование игр](https://github.com/MashaMelyashinskaya/My_piggy_bank/tree/main/EDA/Games(EDA))
 
 
