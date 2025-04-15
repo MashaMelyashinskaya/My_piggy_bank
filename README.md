@@ -1,2 +1,2 @@
 # My_piggy_bank
-This repository contains examples of work on exploratory data analysis and machine learning.
+В этом репозитории содержит примеры работ по исследовательскому анализу данных (EDA) и машинному обучению (ML).
